@@ -1,0 +1,13 @@
+https://stackoverflow.com/questions/26241395/what-is-the-best-practice-for-putting-classes-under-package-names-in-android/28963287#28963287
+
+com.business.project
+├─ network
+├─ models
+├─ managers
+├─ utils
+├─ fragments
+└─ views
+   ├─ adapters
+   ├─ actionbar
+   ├─ widgets
+   └─ notifications
